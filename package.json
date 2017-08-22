@@ -1,0 +1,21 @@
+{
+  "name": "anyaparser",
+  "version": "1.0.0",
+  "description": "Parse files and check content via request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "lodash": "^4.17.4",
+    "microdata-node": "^0.2.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "requestretry": "^1.12.0",
+    "traverse": "^0.6.6",
+    "xss": "^0.3.3"
+  }
+}
